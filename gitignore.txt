@@ -1,0 +1,13 @@
+*.pyc
+.ipynb_checkpoints
+bgtflop.egg-info
+.idea
+__pycache__
+.cache
+s3_data
+_x
+_interviews
+/build
+dask-worker-space
+
+*.cfg.local
